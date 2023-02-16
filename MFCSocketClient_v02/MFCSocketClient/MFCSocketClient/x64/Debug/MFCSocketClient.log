@@ -1,0 +1,4 @@
+﻿  CClientDlg.cpp
+D:\Study\Socket\MFCSocketClient\MFCSocketClient\CClientDlg.cpp(114,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+D:\Study\Socket\MFCSocketClient\MFCSocketClient\CClientDlg.cpp(65,6): warning C4101: 'rc': unreferenced local variable
+  MFCSocketClient.vcxproj -> D:\Study\Socket\MFCSocketClient\x64\Debug\MFCSocketClient.exe
